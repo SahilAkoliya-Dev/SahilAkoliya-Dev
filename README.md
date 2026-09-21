@@ -43,13 +43,13 @@
 
 ## 🧑💻 About Me
 
-I'm a **Mobile & Web Developer** based in **Surat, India**, with **2.5+ years of experience** building fast, scalable web applications for startups and small businesses.
+I'm a **Mobile & Web Developer** based in **Surat, India**, with **2.5+ years of experience** building fast, scalable mobile and web applications for startups and small businesses.
 
 <!-- PERSONALIZE THIS PARAGRAPH — don't leave it generic. -->
 - 🚀 Currently working on **Stock Market App**
 - 💼 Open to **freelance projects**, **collaborations**, and **contract work**
-- 🌱 Currently learning/exploring **Next.js, React Native, Advance Flutter, MongoDB, Node.js**
-- 💬 Ask me about **Flutter, React, Node.js, MongoDB**
+- 🌱 Currently exploring **React Native and advanced Flutter architecture**
+- 💬 Ask me about **Flutter, React, Next.js, Node.js, MongoDB**
 - ⚡ Fun fact: **I am a quick learner and can pick up new technologies quickly**
 
 > **"I build fast, scalable web applications for startups and small businesses"**
@@ -174,20 +174,11 @@ I'm a **Mobile & Web Developer** based in **Surat, India**, with **2.5+ years of
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <!-- STATS CARD — shows commits, PRs, issues, stars -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilAkoliya-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Sahil Akoliya GitHub Stats" width="48%" />
-
-  <!-- STREAK CARD — shows current and longest commit streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilAkoliya-Dev&theme=tokyonight&hide_border=true" alt="Sahil Akoliya GitHub Streak" width="48%" />
-
-  <!-- TOP LANGUAGES CARD — shows most used languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilAkoliya-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Sahil Akoliya Top Languages" width="50%" />
-
+  <img src="./profile/stats.svg" alt="Sahil Akoliya GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=SahilAkoliya-Dev&theme=tokyonight&hide_border=true" alt="Sahil Akoliya GitHub Streak" width="48%" />
+  <br/>
+  <img src="./profile/top-langs.svg" alt="Sahil Akoliya Top Languages" width="50%" />
 </div>
-
-<!-- NOTE: Stats cards only count PUBLIC repos unless you self-host the app.
-     Self-hosting guide: https://github.com/anuraghazra/github-readme-stats -->
 
 ---
 
@@ -202,10 +193,10 @@ I'm a **Mobile & Web Developer** based in **Surat, India**, with **2.5+ years of
 
 I'm currently **available for freelance projects** and open to exciting opportunities. I enjoy working on:
 
-- ✅ [TYPE OF WORK 1 — e.g. "Full-stack web application development"]
-- ✅ [TYPE OF WORK 2 — e.g. "API design and backend architecture"]
-- ✅ [TYPE OF WORK 3 — e.g. "Code reviews and technical consulting"]
-- ✅ [TYPE OF WORK 4 — e.g. "Performance optimization and refactoring"]
+- ✅ Cross-platform mobile apps with **Flutter / React Native** (Android & iOS)
+- ✅ Web apps and dashboards with **React / Next.js**
+- ✅ REST APIs and backends with **Node.js, MongoDB, Supabase & Firebase**
+- ✅ Turning **Figma designs into production-ready apps**, from MVP to launch
 
 **Preferred engagement:** Remote · Contract · Project-based
 
@@ -222,9 +213,12 @@ I'm currently **available for freelance projects** and open to exciting opportun
 
 ## 🐍 Contribution Graph
 
-<!-- This image is auto-generated via GitHub Actions — see setup guide -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SahilAkoliya-Dev/SahilAkoliya-Dev/output/github-contribution-grid-snake-dark.svg" alt="Sahil Akoliya contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahilAkoliya-Dev/SahilAkoliya-Dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilAkoliya-Dev/SahilAkoliya-Dev/output/github-contribution-grid-snake.svg" />
+    <img alt="Sahil Akoliya contribution snake animation" src="https://raw.githubusercontent.com/SahilAkoliya-Dev/SahilAkoliya-Dev/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -239,7 +233,7 @@ I'm currently **available for freelance projects** and open to exciting opportun
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahilakoliya)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://sahilakoliya.com)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail)](mailto:sahilakoliya.dev@gmial.com)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail)](mailto:sahilakoliya.dev@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/SahilAkoliya)
 
 <!-- OPTIONAL: Upwork / Fiverr / Toptal badge if applicable -->
@@ -250,14 +244,3 @@ I'm currently **available for freelance projects** and open to exciting opportun
 ⭐ **If you find my work helpful, consider starring my repos — it helps others discover them!**
 
 </div>
-
----
-
-<!-- SEO FOOTER — invisible keyword block. Not spam, just metadata.
-     This mirrors what's in the README for search engine crawlers to pick up.
-     Keep it natural and honest — only include things that are actually true. -->
-<!--
-  Keywords: [YOUR NAME] · [YOUR ROLE] · Freelance Developer · [YOUR CITY]
-  [YOUR TECH STACK COMMA SEPARATED] · Open to work · Available for hire
-  Software Engineer · Web Developer · Open Source
--->
